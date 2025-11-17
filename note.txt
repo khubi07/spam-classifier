@@ -1,0 +1,10 @@
+venv\Scripts\activate
+steps incolved in this project
+1) data cleaning
+2) EDA
+3)text preprocessing
+4) model building
+5) evaluation
+6) improvement
+7) making a website
+8) deployment
