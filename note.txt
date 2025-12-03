@@ -9,6 +9,14 @@ steps incolved in this project
 7) making a website
 8) deployment
 ############-> LATER PASTE ALL THR CODE IN CHATGPT AND ASK TO GIVE SUMMARY 
+also ask him to give weights over my asked doubts
 
 import nltk
 nltk.download('punkt')
+
+git add .
+git commit -m "Initial commit"
+git push -u origin main
+
+from nltk.corpus import stopwords
+stopwords.words('english')
