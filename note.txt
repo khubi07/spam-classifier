@@ -8,3 +8,7 @@ steps incolved in this project
 6) improvement
 7) making a website
 8) deployment
+############-> LATER PASTE ALL THR CODE IN CHATGPT AND ASK TO GIVE SUMMARY 
+
+import nltk
+nltk.download('punkt')
