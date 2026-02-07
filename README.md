@@ -1,3 +1,9 @@
+## 🚀 Live Demo
+
+👉 Click here to try the app:  
+🔗 https://spam-classifier-5avvx6zxtgtcl9of8tdcdj.streamlit.app/
+
+
 📩 SMS Spam Classifier using Machine Learning
 A machine learning–based SMS Spam Classifier that predicts whether a given message is Spam or Ham (Not Spam) using Natural Language Processing (NLP) techniques and supervised learning models.
 This project demonstrates the complete ML pipeline — from data preprocessing and feature extraction to model training, evaluation, and comparison.
